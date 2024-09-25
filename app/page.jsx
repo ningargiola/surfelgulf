@@ -28,7 +28,7 @@ export default function Home() {
           <div className="order-1 xl:order-none mb-8 xl:mb-0 pt-10">
             <Image 
               className="curved-image"
-              src="/SnellPhoto.jpg" 
+              src="/assets/SnellBoss.png" 
               alt="Snell Photo" 
               width={500} 
               height={300} 
