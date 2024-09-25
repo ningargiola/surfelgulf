@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <section className="h-full">
       <div className="header sticky top-0 z-50">
-        <h1 className="surf-el-gulf xl:text-center">Surf El Gulf <span className="beta">BETA</span></h1>
+        <h1 className="surf-el-gulf xl:text-center">Surf El <span className="beta">Gulf</span></h1>
         <Link href="/reports" className="cta-button report-button">Submit Report</Link>
       </div>
       <div className="container mx-auto h-full">

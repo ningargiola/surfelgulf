@@ -8,7 +8,7 @@ export default function Reports() {
   return (
     <section className="h-full">
       <div className="header sticky top-0 z-50">
-        <Link href = "/"className="surf-el-gulf xl:text-center">Surf El Gulf <span className="beta">BETA</span></Link>
+        <Link href = "/"className="surf-el-gulf xl:text-center">Surf El <span className="beta">Gulf</span></Link>
       </div>
       <h1 className="title pt-10">Thank you for contributing!</h1>
       <div className="form-box">
